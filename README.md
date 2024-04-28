@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I like to create tutorials and solve problems.
+
+Check out my [ResearchGate profile](https://www.researchgate.net/profile/Austin-Hester-2).
+
 <!--
 **ahester57/ahester57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
