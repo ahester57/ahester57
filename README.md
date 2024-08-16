@@ -13,6 +13,7 @@ I'm currently working on an Incentives/Loyalty platform and a few AI projects.
 - [ai_workshop](https://github.com/ahester57/ai_workshop)
 - [style_transfer](https://github.com/ahester57/style_transfer)
 - [evolution_program](https://github.com/ahester57/evolution-program-binary-knapsack)
+- [compress_and_highlight](https://github.com/ahester57/compress_and_highlight)
 
 Check out my [ResearchGate profile](https://www.researchgate.net/profile/Austin-Hester-2).
 
